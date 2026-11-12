@@ -1,24 +1,143 @@
-# 💫 About Me:
-🔭 I’m currently working on: A Garage Operations Management System and various full-stack projects at Bee Solution.<br><br>👯 I’m looking to collaborate on: Enterprise-grade web applications using Java Spring Boot and React.<br><br>🤝 I’m looking for help with: Implementing modern, high-contrast dark-themed UI/UX designs.<br><br>🌱 I’m currently learning: Advanced concepts in Professional Layered Architecture and cloud management with MongoDB Atlas.<br><br>💬 Ask me about: Java (Spring Boot), the MERN stack, or planning high-end PC builds!<br><br>⚡ Fun fact: I love researching high-performance vehicles like the Audi R8, and I strictly refuse to use liquid cooling in my PC builds because I don't trust leaks!
+<!-- 🔧 Replace every YOUR_USERNAME with your GitHub username, and update the placeholder repo, social and email links. -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Heshan d Pathiranage) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heshan d pathiranage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/heshan-dilanka-520983348) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dilankaheshan859@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1f6feb,100:8b5cf6&text=Heshan%20D.%20Pathiranage&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full-Stack%20Engineer%20%26%20Co-Founder%20at%20Bee%20Solution&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Heshan D. Pathiranage banner"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HeshanDPathiranage&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=HeshanDPathiranage&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HeshanDPathiranage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=640&height=45&lines=Full-Stack+Software+Engineer;Co-Founder+at+Bee+Solution;Software+Engineering+Undergrad+at+SLIIT;React+%C2%B7+Spring+Boot+%C2%B7+Go+%C2%B7+PostgreSQL" alt="Typing SVG"/></a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HeshanDPathiranage&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 👋 Hey there, I'm **Heshan** — welcome to my corner of GitHub!
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HeshanDPathiranage&limit=5&theme=dark&combine_all_yearly_contributions=true)
+*I build clean, scalable web and mobile products, and I enjoy turning complex requirements into simple, reliable software.*
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=HeshanDPathiranage&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">🚀 About Me</h2>
+
+- 🎓 **Education:** BSc (Hons) in Information Technology, specializing in Software Engineering at **SLIIT**
+- 💼 **Currently:** Full-Stack Software Engineer & Co-Founder at **Bee Solution**
+- 📍 **Based in:** Sri Lanka 🇱🇰
+- 🔭 **Working with:** React, Spring Boot, Golang and Oracle Database 23c / 26ai Free (via Docker)
+- 🎨 **Off the clock:** Designing vintage comic-book and retro bootleg-style t-shirt artwork in Adobe CC
+- 🏍️ **Obsessed with:** Performance motorcycles, especially the Kawasaki Ninja ZX-4RR and Yamaha XMAX
+- 🎮 **Gaming:** Competitive Valorant, strictly on PC
+- 🎧 **Soundtrack:** Lo-fi hip-hop and 90s boom-bap while coding
+
+<details>
+<summary><b>🖥️ Peek into my setup & off-hours</b></summary>
+
+<br/>
+
+- 🪴 **Workspace:** A highly customized ergonomic desk with an MSI 100Hz monitor on an NB F80 arm, a monitor light bar and desk plants (hello, Golden Pothos 🌿)
+- 👕 **Creative side:** Vintage comic-book aesthetics and retro bootleg tee art, designed in Illustrator and Photoshop
+- 🏁 **Garage dreams:** Following the performance bike scene closely
+- 🎯 **Ranked grind:** Valorant on PC only, no mobile gaming
+
+</details>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+**🎨 Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**⚙️ Backend & Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**🗄️ Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Database_23c_%2F_26ai_Free-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**☁️ Cloud, Servers & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**🧰 Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+</div>
+
+---
+
+<h2 align="center">📂 Featured Projects</h2>
+
+| 🚀 Project | 📖 Description | 🧰 Stack |
+|:--|:--|:--|
+| **[Theekshana Motors](https://github.com/YOUR_USERNAME/theekshana-motors)**<br/>*Garage Operations Management System* | Full-stack web app for job card creation and vehicle service tracking, with role-based access: read-only for customers, update permissions for mechanics. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **[21C Care Leave Management System](https://github.com/YOUR_USERNAME/21c-care-leave-management)**<br/>*Intern assessment project* | Full-stack leave management application built for a software engineering intern assessment. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **[SEQ Services Web App](https://github.com/YOUR_USERNAME/seq-services)**<br/>*Commercial cleaning platform* | Quotation and SEO management platform for a commercial cleaning service. It runs without a database. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&border_color=30363d&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=false&border_color=30363d&border_radius=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=false&border_radius=12&background=0D1117&border=30363D&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<div align="center">
+
+*Got an idea, a project or just want to talk bikes and code? Let's connect!*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_FACEBOOK/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<br/>
+
+⭐ *Thanks for stopping by. If you like what you see, drop a star on a repo!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0d1117,50:1f6feb,100:8b5cf6" width="100%" alt="footer"/>
+
+</div>
